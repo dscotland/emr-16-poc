@@ -15,7 +15,7 @@
     "pspdfkit": "^2023.4.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-image-annotation": "^0.9.10",
+    "react-picture-annotation": "^1.2.0",
     "react-scripts": "5.0.1",
     "typescript": "^4.4.2",
     "web-vitals": "^2.1.0"
